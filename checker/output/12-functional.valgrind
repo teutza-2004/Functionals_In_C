@@ -1,0 +1,15 @@
+==219912== Memcheck, a memory error detector
+==219912== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==219912== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==219912== Command: ./functional
+==219912== Parent PID: 49566
+==219912== 
+==219912== 
+==219912== HEAP SUMMARY:
+==219912==     in use at exit: 0 bytes in 0 blocks
+==219912==   total heap usage: 12 allocs, 12 frees, 8,740 bytes allocated
+==219912== 
+==219912== All heap blocks were freed -- no leaks are possible
+==219912== 
+==219912== For lists of detected and suppressed errors, rerun with: -s
+==219912== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
